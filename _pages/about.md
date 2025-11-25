@@ -10,12 +10,8 @@ redirect_from:
 
 About Jing
 ======
-I'm a Lecturer in Environmental Economics at Xi'an Jiaotong-Liverpool University. I am currently working with [Prof. Patino-Echeverri](https://sites.nicholas.duke.edu/daliapatinoecheverri/people/) from Duke and [Prof. Yang](https://faculty.dukekunshan.edu.cn/faculty_profiles/yanran-yang) from Duke Kunshan University. 
-
-
-I received my PhD from the School of Public Administration and Policy, [Renmin University of China](https://www.ruc.edu.cn/cn/about/introduce.html), in June 2024. 
-With degrees in Economics and Management, my research interests encompass land use, energy policy, and decarbonization. My projects focus on the technical, economic, and public acceptance feasibility of using waste heat to reduce energy demand from residential, commercial, and industrial customers.
-
+I'm a Lecturer in Environmental Economics at Xi'an Jiaotong-Liverpool University. I uss econometric modeling and cost-benefit analysis to develop data-driven decarbonization pathways, with focused expertise in residential energy and climate resilience.
+I earned my PhD from Renmin University of China in 2024. During her doctoral studies, a China Scholarship Council fellowship took me to Duke University, where a pivotal collaboration with [Prof. Patino-Echeverri](https://sites.nicholas.duke.edu/daliapatinoecheverri/people/) added a critical policy dimension to my research. This partnership, which continued into my postdoctoral work at Duke, now fuels my ongoing mission to build strategies for a resilient and equitable future.
 
 Selected Publications
 ------
