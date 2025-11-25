@@ -10,7 +10,7 @@ redirect_from:
 
 About Jing
 ======
-I'm a Postdoctoral Research Fellow in Energy Policy at [Nicholas School of the Environment](https://nicholas.duke.edu/), [Duke University](https://duke.edu/) and the Social Science Division, [Duke Kunshan University](https://www.dukekunshan.edu.cn/). I am working with [Prof. Patino-Echeverri](https://sites.nicholas.duke.edu/daliapatinoecheverri/people/) from Duke and [Prof. Yang](https://faculty.dukekunshan.edu.cn/faculty_profiles/yanran-yang) from DKU. 
+I'm a Lecturer in Environmental Economics at Xi'an Jiaotong-Liverpool University. I am currently working with [Prof. Patino-Echeverri](https://sites.nicholas.duke.edu/daliapatinoecheverri/people/) from Duke and [Prof. Yang](https://faculty.dukekunshan.edu.cn/faculty_profiles/yanran-yang) from DKU. 
 
 
 I received my PhD from the School of Public Administration and Policy, [Renmin University of China](https://www.ruc.edu.cn/cn/about/introduce.html), in June 2024. 
