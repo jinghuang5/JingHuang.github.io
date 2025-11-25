@@ -11,8 +11,8 @@ locale                   : "en-US"
 title                    : "Jing Huang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Jing Huang"
-description              : &description "Postdoctoral Research Fellow in Energy Policy"
-url                      : "https://ccdashss.github.io/JingHuang.github.io/"
+description              : &description "Lecturer in Environmental Economics and Energy Policy"
+url                      : "https://jinghuang5.github.io/JingHuang.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,9 +24,9 @@ author:
   avatar           : "github_profile pic.png"
   name             : "Jing Huang"
   pronouns         : "she/her"  
-  bio              : "Postdoctoral Research Fellow in Energy Policy"
-  location         : "Shanghai, China ‎(UTC+8)‎"
-  employer         : "Duke University & DKU"
+  bio              : "Lecturer in Environmental Economics and Energy Policy"
+  location         : "Suzhou, China ‎(UTC+8)‎"
+  employer         : "Xi'an Jiaotong-Liverpool University"
   uri              : # URL
   email            : "jing.huang@duke.edu" 
 
