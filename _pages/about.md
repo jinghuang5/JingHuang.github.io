@@ -10,10 +10,10 @@ redirect_from:
 
 About Jing
 ======
-I'm a researcher in environmental economics and energy policy at School of Science, Xi'an Jiaotong-Liverpool University. I use econometric modeling and cost-benefit analysis to develop data-driven decarbonization pathways, with focused expertise in residential energy and climate resilience.
+I’m a researcher in environmental economics and energy policy at the School of Science, Xi’an Jiaotong–Liverpool University. My work combines econometric modeling with cost–benefit analysis to explore data-driven pathways for decarbonization, with a particular focus on residential energy use and climate resilience.
 
 
-I earned my PhD from Renmin University of China in 2024. During my doctoral studies, a China Scholarship Council fellowship took me to Duke University, where a pivotal collaboration with [Prof. Patino-Echeverri](https://sites.nicholas.duke.edu/daliapatinoecheverri/people/) added a critical policy dimension to my research. This partnership, which continued into my postdoctoral work at Duke, now fuels my ongoing mission to build strategies for a resilient and equitable future.
+I received my PhD from Renmin University of China in 2024. As part of my doctoral journey, I spent a year at Duke University, where working closely with [Prof. Patino-Echeverri](https://sites.nicholas.duke.edu/daliapatinoecheverri/people/) broadened my research into the policy realm. This collaboration continued into my postdoctoral work at Duke and continues to shape my commitment to developing strategies that advance a more resilient, equitable, and sustainable future.
 
 Selected Publications
 ------
