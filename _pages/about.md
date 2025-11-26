@@ -10,7 +10,7 @@ redirect_from:
 
 About Jing
 ======
-I care deeply about the environment, and my work sits at the intersection of environmental economics, energy policy, and land use. I’m passionate about using econometric modeling and Cost–Benefit Analysis to uncover data-driven pathways for decarbonization, especially in areas like residential energy and climate resilience.
+I care deeply about the environment, and my work sits at the intersection of environmental economics, energy policy, and land use. I use econometric modeling and Cost–Benefit Analysis to uncover data-driven pathways that support climate resilience.
 
 
 I received my PhD from Renmin University of China in 2024. As part of my doctoral journey, I spent a year at Duke University, where working closely with [Prof. Patino-Echeverri](https://sites.nicholas.duke.edu/daliapatinoecheverri/people/) broadened my research into the policy realm. This collaboration continued into my postdoctoral work at Duke and continues to shape my commitment to developing strategies that advance a more resilient, equitable, and sustainable future.
